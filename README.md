@@ -1,16 +1,17 @@
-## Hi there 👋
+## Nice to meet you 👋
 
-<!--
-**ErikBuis/ErikBuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Erik, a Master's student in AI at the University of Amsterdam. I'm currently working on a deep learning model to detect the location of tree stems as part of my internship and thesis at NEO.
 
-Here are some ideas to get you started:
+I love optimizing code through smart algorithms and parallelization to improve performance, and I deeply value creating clean, robust architectures that scale. I'm always looking for oppertunities to improve my skills and knowledge in software engineering and AI, so don't hestitate to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  👨‍💻🐍🐧📊🐙🤖
+  &emsp;&emsp;&emsp;
+  🌳🌊🌷🐈🌈🗻
+  &emsp;&emsp;&emsp;
+  🧗🏼♟️🎢🏓🎮🎶
+</p>
+
+---
