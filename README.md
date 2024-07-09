@@ -1,4 +1,4 @@
-## Nice to meet you 👋
+## Hey, nice to meet you! 👋
 
 I'm Erik, a Master's student in AI at the University of Amsterdam. I'm currently working on a deep learning model to detect the location of tree stems as part of my internship and thesis at NEO.
 
