@@ -7,7 +7,7 @@ I love optimizing code through smart algorithms and parallelization to improve p
 ---
 
 <p align="center">
-  👨‍💻🐍🐧📊🐙🤖
+  👨‍💻🐍🐧📊 :octocat: 🤖
   &emsp;&emsp;&emsp;
   🌳🌊🌷🐈🌈🗻
   &emsp;&emsp;&emsp;
